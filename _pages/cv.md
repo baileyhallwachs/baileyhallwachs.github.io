@@ -22,10 +22,7 @@ Work experience
   * Duties included: Electron Microscopy in Grapevine Red Blotch Virus 
   * Supervisor: Professor Bhaskar Bondada 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* A bunch of other stuff 
   
 Skills
 ======
